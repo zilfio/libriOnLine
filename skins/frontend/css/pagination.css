@@ -1,0 +1,26 @@
+.page_navigation , .alt_page_navigation{
+    padding-bottom: 10px;
+}
+
+.page_navigation a, .alt_page_navigation a{
+    padding:6px 12px;
+    margin-left:-1px;
+    color:#337ab7;
+    text-decoration:none;
+    font-size: 12px;
+    background-color:#fff;
+    border: 1px solid #ddd;
+}
+
+.active_page{
+    background-color:#337ab7 !important;
+    color:#fff !important;
+}	
+
+.content, .alt_content{
+    color: black;
+}
+
+.content li, .alt_content li, .content > p{
+    padding: 3px
+}
