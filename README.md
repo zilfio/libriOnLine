@@ -8,6 +8,8 @@ Il sistema è suddiviso in front-end e back-end (backoffice), le cui funzionalit
 Solo i bibliotecari possono aggiungere nuovi utenti (compresi altri bibliotecari) nel sistema.
 Ogni nuovo utente registrato avrà un profilo contenente i suoi dati anagrafici, l’indirizzo email e un numero di telefono.
 
+# Funzionalità del sistema
+
 Di seguito sono elencati i contenuti e le funzionalità del sito:
 - Dentro la sezione “Catalogo libri”, oltre ad una ricerca semplice da effettuare sul titolo di un libro, tutti gli utenti possono usufruire di una funzionalità di ricerca avanzata tramite la quale i libri possono essere ricercati in base a: il titolo o parte di esso, i tag associati, uno o più degli autori, il codice ISBN e la lingua. I risultati della ricerca sono presentati sotto forma di griglia e cliccando su ciascun libro si apre la corrispondente pagina di dettaglio.
 - Nella pagina di dettaglio di un libro si può cliccare sul nome di un autore avviando automaticamente una ricerca di tutti i libri da lui scritti presenti nella biblioteca.
